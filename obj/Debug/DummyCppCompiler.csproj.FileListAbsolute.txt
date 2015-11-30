@@ -1,0 +1,56 @@
+E:\Work\2nd Year 2nd Semestre\Mini Compiler Project\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.exe.config
+G:\Interpreter Sessions\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.exe.config
+G:\Interpreter Sessions\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.csprojResolveAssemblyReference.cache
+G:\Interpreter Sessions\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.Properties.Resources.resources
+G:\Interpreter Sessions\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.csproj.GenerateResource.Cache
+I:\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.exe.config
+I:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.csprojResolveAssemblyReference.cache
+I:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.Properties.Resources.resources
+I:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.csproj.GenerateResource.Cache
+H:\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.exe.config
+H:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.csprojResolveAssemblyReference.cache
+H:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.Properties.Resources.resources
+H:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.csproj.GenerateResource.Cache
+H:\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.exe
+H:\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.pdb
+H:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.exe
+H:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.pdb
+E:\Work\2nd Year 2nd Semestre\Mini Compiler Project\Mini Compiler\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.exe.config
+E:\Work\2nd Year 2nd Semestre\Mini Compiler Project\Mini Compiler\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.exe
+E:\Work\2nd Year 2nd Semestre\Mini Compiler Project\Mini Compiler\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.pdb
+E:\Work\2nd Year 2nd Semestre\Mini Compiler Project\Mini Compiler\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.exe
+E:\Work\2nd Year 2nd Semestre\Mini Compiler Project\Mini Compiler\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.pdb
+E:\Work\2nd Year 2nd Semestre\Mini Compiler Project\Mini Compiler\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.csprojResolveAssemblyReference.cache
+E:\Work\2nd Year 2nd Semestre\Mini Compiler Project\Mini Compiler\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.Properties.Resources.resources
+E:\Work\2nd Year 2nd Semestre\Mini Compiler Project\Mini Compiler\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.csproj.GenerateResource.Cache
+E:\Work\2nd Year 2nd Semestre\Mini Compiler Project\Mini Compiler\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.Form1.resources
+F:\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.exe.config
+F:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.exe
+F:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.pdb
+F:\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.exe
+F:\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.pdb
+F:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.csprojResolveAssemblyReference.cache
+F:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.Form1.resources
+F:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.Properties.Resources.resources
+F:\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.csproj.GenerateResource.Cache
+C:\Users\EmanAssem\Desktop\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.exe.config
+C:\Users\EmanAssem\Desktop\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.exe
+C:\Users\EmanAssem\Desktop\DummyCppCompiler\DummyCppCompiler\bin\Debug\DummyCppCompiler.pdb
+C:\Users\EmanAssem\Desktop\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.Form1.resources
+C:\Users\EmanAssem\Desktop\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.Properties.Resources.resources
+C:\Users\EmanAssem\Desktop\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.csproj.GenerateResource.Cache
+C:\Users\EmanAssem\Desktop\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.exe
+C:\Users\EmanAssem\Desktop\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.pdb
+C:\Users\EmanAssem\Desktop\DummyCppCompiler\DummyCppCompiler\obj\Debug\DummyCppCompiler.csprojResolveAssemblyReference.cache
+C:\Users\EmanAssem\Mini Compiler F\DummyCppCompiler\bin\Debug\DummyCppCompiler.exe.config
+C:\Users\EmanAssem\Mini Compiler F\DummyCppCompiler\obj\Debug\DummyCppCompiler.exe
+C:\Users\EmanAssem\Mini Compiler F\DummyCppCompiler\obj\Debug\DummyCppCompiler.pdb
+E:\VS2013 Projects\Compiler\bin\Debug\DummyCppCompiler.exe.config
+E:\VS2013 Projects\Compiler\obj\Debug\DummyCppCompiler.exe
+E:\VS2013 Projects\Compiler\obj\Debug\DummyCppCompiler.pdb
+E:\VS2013 Projects\Compiler\bin\Debug\DummyCppCompiler.exe
+E:\VS2013 Projects\Compiler\bin\Debug\DummyCppCompiler.pdb
+E:\VS2013 Projects\Compiler\obj\Debug\DummyCppCompiler.csprojResolveAssemblyReference.cache
+E:\VS2013 Projects\Compiler\obj\Debug\DummyCppCompiler.Form1.resources
+E:\VS2013 Projects\Compiler\obj\Debug\DummyCppCompiler.Properties.Resources.resources
+E:\VS2013 Projects\Compiler\obj\Debug\DummyCppCompiler.csproj.GenerateResource.Cache
